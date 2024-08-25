@@ -1,4 +1,4 @@
-# Copyright
+# Copyright EN
 Blog Site Copyrighted By
 * ParkSoYeon666(All copyrights reserved on This Site)
 
