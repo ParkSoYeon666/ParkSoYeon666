@@ -1,2 +1,2 @@
 # 성일어
-## [성일어 사전](conlang/conlang_1_dic.md)
+## [성일어 사전](dic/conlang_1_dic.md)
