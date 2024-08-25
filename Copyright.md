@@ -1,6 +1,8 @@
 # Copyright.md
 Blog Site Copyrighted By
-* ParkSoYeon666(Sites All Copyrighted)
+* ParkSoYeon666(All copyrights reserved on This Site)
+
+There are pictures in the /images route.
 
 Images Source Copyrighted By
-(/image/7iFSMXxYGGGODLf6yU-X32yDC7VhlAexblljWlkwIkN6rkU8BcMggi5TYL9JorP6XQHnyWIXO68myY8GBa-6NkQRauu52UVNcoM8MdDaqBvEPMmDRMcxh_R2Is.png)
+* (All Copyrights reserved on This File)
