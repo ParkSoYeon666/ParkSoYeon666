@@ -3,7 +3,7 @@ Blog Site Copyrighted By
 * ParkSoYeon666(All Copyrights reserved on This Site)
 
 CNAME Hosting By
-* 내도메인.한국(All Copyrights reserved on This Domain)
+* 내도메인.한국(All Copyrights reserved on http://alala.kro.kr/ Domain)
 
 There are pictures in the /images route.
 
