@@ -2,6 +2,9 @@
 Blog Site Copyrighted By
 * ParkSoYeon666(All copyrights reserved on This Site)
 
+CNAME Hosting By
+* 내도메인.한국
+
 There are pictures in the /images route.
 
 Images Source Copyrighted By
