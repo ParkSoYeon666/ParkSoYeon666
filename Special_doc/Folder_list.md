@@ -1,1 +1,1 @@
-# 폴더 목록
+#redirect filemanager.ai
