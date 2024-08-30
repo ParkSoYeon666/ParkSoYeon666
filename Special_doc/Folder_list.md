@@ -1,1 +1,1 @@
-#redirect filemanager.ai
+#redirect [[filemanager.ai]]
