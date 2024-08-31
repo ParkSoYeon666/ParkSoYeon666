@@ -1,2 +1,2 @@
 # 목차
-[프롤로그](/Novel/Jikan/Prologue)
+[프롤로그](/Novel/Jikan/Prologue.md)
