@@ -1,2 +1,3 @@
 # 제1장
-[물어시발기](/Novel/Jikan/ReadStart/Itchi/Prologue.md)
+* [개요](/Novel/Jikan/ReadStart/Itchi/StoryStart.md)
+* [물어시발기](/Novel/Jikan/ReadStart/Itchi/Prologue.md)
