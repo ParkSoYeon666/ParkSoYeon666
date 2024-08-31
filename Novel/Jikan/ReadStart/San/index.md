@@ -1,2 +1,2 @@
-# 제2장
+# 제3장
 [프롤로그](/Novel/Jikan/ReadStart/Ni/Prologue.md)
