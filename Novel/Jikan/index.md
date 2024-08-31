@@ -1,2 +1,2 @@
-# 목차
-[프롤로그](/Novel/Jikan/Prologue.md)
+# 읽으러 가기
+[제1장](/Novel/Jikan/ReadStart/Itchi)
