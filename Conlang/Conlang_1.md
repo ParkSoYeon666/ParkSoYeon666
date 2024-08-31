@@ -3,4 +3,4 @@
 ![](/Images/Untitled.png)
 위에 보이는 사진은 성일기입니다.
 ## 관련 사이트
-[사전](Dic/conlang_1_dic.md)
+[사전](Dic/Conlang_1_dic.md)
