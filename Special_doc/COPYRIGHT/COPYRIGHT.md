@@ -14,6 +14,6 @@ Images Source Copyrighted By
 
 # 참고
 ```
-본 문서는 저작권을 표기하는 문서이므로 수시로 수정해 주시기를 요망합니다.
+해당하는 문서는 본 블로그의 저작권을 표기하는 문서이므로 수시로 수정해 주시기를 요망합니다.
 Revise frequently Please.
 ```
