@@ -14,6 +14,6 @@ Images Source Copyrighted By
 
 # 참고
 ```
-수시로 수정해 주시기를 요망.
+수시로 수정해 주시기를 요망합니다.
 Please revise frequently.
 ```
