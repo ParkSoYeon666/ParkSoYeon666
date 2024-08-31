@@ -1,2 +1,2 @@
 # 들어가기
-[들어가기](/Matryoshka/index.md)
+[들어가기](/MiniGame/Matryoshka/index.md)
