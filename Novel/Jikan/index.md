@@ -1,2 +1,2 @@
-# 읽으러 가기
+# 목차
 [프롤로그](/Novel/Jikan/Prologue)
