@@ -1,2 +1,2 @@
 # 제3장
-[프롤로그](/Novel/Jikan/ReadStart/Ni/Prologue.md)
+[프롤로그](/Novel/Jikan/ReadStart/San/Prologue.md)
