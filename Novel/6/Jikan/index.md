@@ -1,5 +1,5 @@
 # 읽으러 가기
-* [제1장](/Novel/Jikan/ReadStart/Itchi)
-* [제2장](/Novel/Jikan/ReadStart/Ni)
-* [제3장](/Novel/Jikan/ReadStart/San)
-* [제4장](/Novel/Jikan/ReadStart/Si)
+* [제1장](/Jikan/ReadStart/Itchi)
+* [제2장](/Jikan/ReadStart/Ni)
+* [제3장](/Jikan/ReadStart/San)
+* [제4장](/Jikan/ReadStart/Si)

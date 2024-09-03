@@ -1,2 +1,2 @@
 # 제5장
-[프롤로그](/Novel/6/Jikan/ReadStart/Go/Prologue.md)
+[프롤로그](/6/Jikan/ReadStart/Go/Prologue.md)
