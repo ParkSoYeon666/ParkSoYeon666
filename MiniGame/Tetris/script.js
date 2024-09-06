@@ -12,7 +12,9 @@ const tetrominoes = [
 ];
 
 let tetromino = tetrominoes[0];
-let position = { x: 5, y: 5 };
+let position = { x: 5, y: 0 };
+let startTime = Date.now();
+const fallingDuration = 15000; // 15 seconds
 
 function draw() {
     context.clearRect(0, 0, canvas.width, canvas.height);
@@ -27,8 +29,28 @@ function draw() {
 }
 
 function update() {
-    position.y++;
+    const elapsedTime = Date.now() - startTime;
+    if (elapsedTime < fallingDuration) {
+        position.y++;
+        draw();
+    } else {
+        // Stop falling after 15 seconds
+        clearInterval(fallInterval);
+    }
+}
+
+function handleTouch(event) {
+    const rect = canvas.getBoundingClientRect();
+    const touchX = event.touches[0].clientX - rect.left;
+    const touchY = event.touches[0].clientY - rect.top;
+    const gridX = Math.floor(touchX / grid);
+    const gridY = Math.floor(touchY / grid);
+    const index = Math.floor(Math.random() * tetrominoes.length);
+    tetromino = tetrominoes[index];
+    position = { x: gridX, y: gridY };
     draw();
 }
 
-setInterval(update, 1000);
+const fallInterval = setInterval(update, 1000);
+
+canvas.addEventListener('touchstart', handleTouch);
