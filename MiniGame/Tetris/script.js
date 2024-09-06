@@ -34,7 +34,6 @@ function update() {
         position.y++;
         draw();
     } else {
-        // Stop falling after 15 seconds
         clearInterval(fallInterval);
     }
 }
