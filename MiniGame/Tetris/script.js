@@ -2,19 +2,19 @@ const canvas = document.getElementById('gameCanvas');
 const context = canvas.getContext('2d');
 const grid = 32;
 const tetrominoes = [
-    [1, 1, 1, 1, 0, 0, 0, 0], // I
-    [0, 1, 1, 1, 1, 0, 0, 0], // J
-    [1, 1, 0, 0, 1, 1, 0, 0], // O
-    [0, 1, 1, 0, 1, 1, 0, 0], // S
-    [1, 1, 1, 0, 1, 0, 0, 0], // T
-    [1, 1, 0, 1, 1, 0, 0, 0], // Z
-    [1, 1, 1, 1, 0, 0, 0, 0]  // L
+    [1, 1, 1, 1, 0, 0, 0, 0],
+    [0, 1, 1, 1, 1, 0, 0, 0],
+    [1, 1, 0, 0, 1, 1, 0, 0],
+    [0, 1, 1, 0, 1, 1, 0, 0],
+    [1, 1, 1, 0, 1, 0, 0, 0],
+    [1, 1, 0, 1, 1, 0, 0, 0],
+    [1, 1, 1, 1, 0, 0, 0, 0]
 ];
 
 let tetromino = tetrominoes[0];
 let position = { x: 5, y: 0 };
 let startTime = Date.now();
-const fallingDuration = 15000; // 15 seconds
+const fallingDuration = 15000;
 
 function draw() {
     context.clearRect(0, 0, canvas.width, canvas.height);
@@ -35,7 +35,6 @@ function update() {
         draw();
     } else {
         clearInterval(fallInterval);
-        // Optionally handle game over or spawn new tetromino here
     }
 }
 
@@ -49,8 +48,7 @@ function handleTouch(event) {
     const index = Math.floor(Math.random() * tetrominoes.length);
     tetromino = tetrominoes[index];
     position = { x: gridX, y: gridY };
-
-    // Check if the tetromino is within bounds or overlaps with existing blocks
+    
     draw();
 }
 
