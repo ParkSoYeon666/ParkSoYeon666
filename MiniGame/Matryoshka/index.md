@@ -1,2 +1,2 @@
-# 들어가기
-[들어가기](/MiniGame/Matryoshka/Into/Into.md)
+# 시작하기
+[시작하기](/MiniGame/Matryoshka/Into/Into.md)
